@@ -1,3 +1,5 @@
 This is a test of git.
 More test
 more and more test
+bla bla bla
+bla bla 
